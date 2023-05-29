@@ -135,7 +135,7 @@ aside.menu-sidebar.d-none.d-lg-block.clr{
  */
 
 .header-desktop{
-    background:#0da8e4;
+    background:#38dc59;
     -webkit-box-shadow:0 2px 5px 0 rgba(0,0,0,.1);
     -moz-box-shadow:0 2px 5px 0 rgba(0,0,0,.1);
     box-shadow:0 2px 5px 0 rgba(0,0,0,.1);
@@ -251,7 +251,7 @@ input.au-input.au-input-xl{
 }
 
 .total{
-    background:#205b8d;
+    background:#005010;
     line-height:43px;
     color:#fff;
     border-radius:30px;
@@ -288,11 +288,11 @@ input.au-input.au-input-xl{
     -webkit-border-radius:3px;
     -moz-border-radius:3px;
     border-radius:43px;
-    background:#205b8d
+    background:#005010
 }
 
 .au-btn-submit:hover{
-    background:#05143f
+    background:#032102
 }
 
 .au-btn-submit>i{
@@ -515,7 +515,7 @@ input.au-input.au-input-xl{
     background:#fff
 }
 .main-content.page-m{
-    padding:10% 15%!important
+    padding:10% 30% 10% 5%;
 }
 
 /* 
@@ -828,7 +828,7 @@ footer ul li{
         font-size:22px;
         float:left;
         margin-top:16px;
-        color:#205b8d;
+        color:#005010;
         margin-left:15px
     }
     .header-mobile .header-mobile-bar{
@@ -923,7 +923,7 @@ footer ul li{
         font-size:22px;
         float:left;
         margin-top:16px;
-        color:#205b8d;
+        color:#005010;
         margin-left:15px
     }
         .header-wrap2{
@@ -974,7 +974,7 @@ footer ul li{
         font-size:22px;
         float:left;
         margin-top:16px;
-        color:#205b8d;
+        color:#005010;
         margin-left:15px
     }
     .footer-pagination{
@@ -1013,7 +1013,7 @@ footer ul li{
         font-size:18px;
         float:left;
         margin-top:16px;
-        color:#03a9f4;
+        color:#005010;
         margin-left:15px
     }
     .total span{
@@ -1026,7 +1026,7 @@ footer ul li{
         margin-left:6px
     }
     .total{
-        background:#205b8d;
+        background:#005010;
         line-height:30px;
         color:#fff;
         border-radius:30px;
